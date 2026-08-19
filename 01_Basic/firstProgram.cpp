@@ -7,4 +7,3 @@ int main()
          cout<<"Hello"<<endl<<"world";
          return 0;
         }
-
