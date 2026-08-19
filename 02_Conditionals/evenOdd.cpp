@@ -10,3 +10,4 @@ int main()
           else { cout << num << " is Odd"; }
           return 0;
          }
+         

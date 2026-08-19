@@ -10,3 +10,4 @@ int main ()
           else { cout << num; }
           return 0;  
          }   
+         

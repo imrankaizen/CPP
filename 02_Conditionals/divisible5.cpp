@@ -10,3 +10,4 @@ int main()
          else { cout << num << " is Not Divisible by 5"; }
          return 0;   
         }
+        

@@ -19,3 +19,4 @@ int main ()
           else { cout << percentage << " is Fail"; }  
           return 0;  
          }   
+      

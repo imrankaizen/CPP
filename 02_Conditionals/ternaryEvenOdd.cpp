@@ -9,3 +9,4 @@ int main ()
           (num%2==0) ? cout << num << " is Even" : cout << num << " is Odd";   
           return 0;  
          }
+         
