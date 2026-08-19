@@ -8,3 +8,4 @@ int main()
          cout << "ASCII value of " << ch  << " is " << (int)ch; 
          return 0;   
         }
+        

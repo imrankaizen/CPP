@@ -9,3 +9,4 @@ int main()
          cout << "Square of " << num << " is "<< square;
          return 0;   
         }
+        

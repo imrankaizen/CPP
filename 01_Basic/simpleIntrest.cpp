@@ -13,3 +13,4 @@ int main()
          cout << "Simple Intrest  = " << si;
          return 0;   
         }
+        

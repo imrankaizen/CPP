@@ -8,3 +8,4 @@ int main()
          cout<<"Multiplication = "<<x*y<<endl;   
          cout<<"Division = "<<x/y<<endl;   
         }
+        

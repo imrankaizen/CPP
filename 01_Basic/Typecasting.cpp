@@ -11,3 +11,4 @@ int main()
          cout << "Half of " << num <<" is " << half;  
          return 0;   
         }
+        
